@@ -7,7 +7,7 @@ A minimal, responsive React app for Alex to search books by title via the Open L
 - Tailwind CSS 3
 
 ## 🚀 Live Demo  
-👉 [Here is the deploy link](https://your-deployment-link.com)
+👉 [Here is the deploy link](https://book-finder-abhishek.netlify.app/)
 
 ## 🚀 Features
 - **Search by title** – Enter a book title and fetch results from Open Library.  
